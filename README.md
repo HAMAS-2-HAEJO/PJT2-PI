@@ -64,10 +64,11 @@ TC275 shieldbuddy를 활용하여 AURIX Development Studio내 PI 제어기 기�
 > PI제어기 흐름도
 > 
 
+
 - 거리 오차에 따른 목표 속도   &    속도 오차에 따른 위치
 
 <img src="https://github.com/HAMAS-2-HAEJO/PJT2-PI/assets/87352996/f61bed92-f63d-4e5e-b4f3-1a790f67b8d2.png" width="270" height="420"/>  
-<img src="https://github.com/HAMAS-2-HAEJO/PJT2-PI/assets/87352996/8aacc695-afef-4138-9b55-bf7ace602686.png" width="280" height="400"/>  
+<img src="https://github.com/HAMAS-2-HAEJO/PJT2-PI/assets/50691701/a9283061-58e5-465d-bb30-0dce0215e424.png" width="280" height="400"/>  
 
    
 
